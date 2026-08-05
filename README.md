@@ -5,7 +5,7 @@ WanderLust is a modern full-stack web application inspired by Airbnb that allows
 The application is designed to provide a seamless experience for travelers searching for unique places to stay while allowing property owners to showcase and manage their listings effortlessly.
 
 ---
-
+ 
 ## ✨ Features
 
 * 🏡 Browse travel accommodation listings
